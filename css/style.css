@@ -1,0 +1,60 @@
+.table {
+    border: 2px solid black;
+}
+td {
+    border: 2px solid black;
+    color: black;
+}
+td:hover{
+   background-color: black;
+   color: white;
+}
+.data1 { background-color: red;
+
+}
+.data2 {
+    background-color: orangered;
+}
+.data3 {
+    background-color: yellow;
+}
+.data4 {
+    background-color: green;
+}
+.data5 {
+    background-color: blue;
+}
+.data6 {
+    background-color: indigo;
+}
+.data7 {
+    background-color: violet;
+}
+.data8 {
+    background-color: red;
+}
+.data9 {
+    background-color: orangered;
+}
+.data10 {
+    background-color: green;
+}
+.data11 {
+    background-color: blue;
+}
+.data12 {
+    background-color: indigo;
+}
+h1 {
+    color: black;
+    background-color: burlywood;
+    text-align: center;
+    border-radius: 30px;
+    border-style: ridge;
+}
+h1:hover {
+    color: wheat;
+}
+body {
+    background-color: black;
+}
